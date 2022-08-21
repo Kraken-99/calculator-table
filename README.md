@@ -3,4 +3,4 @@
 
 Voici un programme qui a été coder avec le langage C++, et qui vous permet de voir toute les tables de multiplication jusqu'à 10.
 
-- <p style="opacity: 50%;">Raphael Gauthier</p>
+- <p style="opacity: 50%;">Kraken</p>
